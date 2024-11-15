@@ -1,4 +1,6 @@
 # Data Scientist
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-%23181717?style=for-the-badge&logo=github)](https://github.com/sskyisthelimit)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-%23FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/sskyisthelimit)
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
