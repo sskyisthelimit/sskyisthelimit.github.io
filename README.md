@@ -1,7 +1,7 @@
 # Data Scientist
 
 #### **Технічні навички:**  
-Python (1+ рік досвіду), AWS, Terraform, Hugging Face, PyTorch, SQL, Docker, Airflow, Git
+Python (1+ рік досвіду), AWS, Terraform, PyTorch, Hugging Face, Docker, GH Actions, Git
 
 ---
 
