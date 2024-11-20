@@ -1,78 +1,78 @@
-# Data Scientist
+# Computer Vision Engineer resume
 
-#### **Технічні навички:**  
-Python (1+ рік досвіду), AWS, Terraform, PyTorch, Hugging Face, Docker, GH Actions, Git
-
----
-
-## Освіта
-
-- **Бакалавр Computer Science (онлайн навчання)**  
-  _КПІ, Інститут прикладного системного аналізу (Вересень 2023 - зараз)_
+#### **Technical Skills:**  
+Python (1+ year of experience), AWS, Terraform, PyTorch, Lightning, Hugging Face, Docker, GH Actions, Git
 
 ---
 
-## Проекти
+## Education
 
-### [Розпізнавання рукописних текстів (Англійська мова)](https://github.com/sskyisthelimit/HTR)
-**Технології та підходи:**  
+- **Bachelor's in Computer Science (Online Learning)**  
+  _KPI, Institute of Applied System Analysis (September 2023 - present)_
+
+---
+
+## Projects
+
+### [Handwritten Text Recognition (English Language)](https://github.com/sskyisthelimit/HTR)
+**Technologies and Approaches:**  
 Python, GIT, GH Actions, Hugging Face, PyTorch, Transformer models, YOLO, REST API, Docker, Next.js, TypeScript
 
-- Вивчено існуючі дослідження моделей для розпізнавання рукописного тексту.
-- Зібрано та оброблено дані з понад 8 різних open-source датасетів.  
-  Обробка включала:
-  - Анотації для YOLO (моделі детекції ліній і слів).
-  - Парсинг .xml файлів і оптимізацію анотацій.
-- Використано моделі розпізнавання на основі трансформерів: GPT-2 і DTrOCR.
-- Розроблено, контейнеризовано (Docker) API.  
-  Інфраструктура побудована на AWS із використанням Terraform.  
-- Використано GitHub Actions для CI/CD.
-- Проект знаходиться у розробці; кінцева мета — інтеграція API з вебсайтом.  
+- Researched existing studies of handwritten text recognition models.
+- Collected and processed data from over 8 different open-source datasets.  
+  Processing included:
+  - Annotations for YOLO (line and word detection models).
+  - Parsing .xml files and optimizing annotations.
+- Utilized transformer-based recognition models: GPT-2 and DTrOCR.
+- Developed and containerized (Docker) an API.  
+  Infrastructure was built on AWS using Terraform.  
+- Used GitHub Actions for CI/CD.
+- The project is under development; the final goal is to integrate the API with a website.  
 
-  **Посилання на репозиторії:**
+  **Repository Links:**
   - [Frontend (Next.js + TypeScript)](https://github.com/sskyisthelimit/htr-frontend)
   - [API (Research/Dev/Main)](https://github.com/sskyisthelimit/HTR)
 
 ---
 
-### [Реалізація архітектур машинного навчання](https://github.com/sskyisthelimit/ml-implementations)
-**Технології та підходи:**  
+### [Implementation of Machine Learning Architectures](https://github.com/sskyisthelimit/ml-implementations)
+**Technologies and Approaches:**  
 PyTorch, Numpy, Pandas, Matplotlib
 
-- Реалізовано архітектури для комп'ютерного бачення та глибокого навчання:
+- Implemented architectures for computer vision and deep learning:
   - YOLO, UNET, MobileNet, Inception, ResNet, Vision Transformer.
-- **Інші моделі:** Linear Regression, Logistic Regression, Decision Tree, Random Forest, Support Vector Machine.
-- **Додатково:** Кластеризація та методи розв'язання систем лінійних рівнянь (СЛАР).
+- **Other models:** Linear Regression, Logistic Regression, Decision Tree, Random Forest, Support Vector Machine.
+- **Additional work:** Clustering and methods for solving systems of linear equations (SLEs).
 
 ---
 
-### Інші проекти
-**Технології та підходи:**  
+### Other Projects
+**Technologies and Approaches:**  
 Bash, Python, Airflow, Docker
 
-- **Data Engineering:** Простий ETL pipeline з використанням Python + Airflow.  
-  _(проект неактивний на даний момент)_  
-- **Shell скрипти:** Автоматизація резервного копіювання.
-- **Вебсайт-резюме:** Планую модернізувати за допомогою Next.js + TypeScript.
+- **Data Engineering:** A simple ETL pipeline using Python + Airflow.  
+  _(project currently inactive)_  
+- **Shell scripts:** Automated backup creation.
+- **Personal Resume Website:** Planning to upgrade it using Next.js + TypeScript.
 
 ---
 
-### [Класичні Алгоритми + SQL](https://leetcode.com/sskyisthelimit/)
-На платформі **LeetCode** я вирішив **121 задачу** , зокрема:
+### [Classic Algorithms + SQL](https://leetcode.com/sskyisthelimit/)
+On the **LeetCode** platform, I have solved **126 problems**, including:
 
-- **Легкий рівень:** 87 задач
-- **Середній рівень:** 31 задача  
-- **Складний рівень:** 3 задачі  
+- **Easy level:** 87 problems
+- **Medium level:** 35 problems  
+- **Hard level:** 4 problems  
 
-Більшість задач виконано **два роки тому**, коли я вперше знайомився з Python.  
-Наразі я знову активно займаюсь алгоритмами, готуючись до співбесід.  
-Фокусуюсь на задачах **середнього** та **складного рівня**, щоб вдосконалити своє алгоритмічне мислення.
+Most of these problems were solved **two years ago** when I first started learning Python.  
+Currently, I am actively revisiting algorithms to prepare for interviews.  
+I am focusing on **medium** and **hard-level problems** to improve my algorithmic thinking.
 
 ---
 
-## Інші деталі
+## Additional Details
 
-- **Математична база:** Завдяки навчанню в КПІ (ІПСА), маю глибокі знання з математики та алгоритмів.
-- **Досвід з C/C++:** Завдання університетських курсів.
-- **Готовність до релокейту:** Маю на меті релокацію чи зміну університету за умови релевантної пропозиції.  
-- **Цілі:** Зацікавлений в позиції Computer Vision Engineer або MLOps + Computer Vision Engineer.
+- **Mathematics Background:** Thanks to my education at KPI (IASA), I have a strong foundation in mathematics and algorithms.
+- **Experience with C/C++:** Gained through university coursework (I don't consider calling this knowledge fresh and strong).
+- **Relocation Readiness:** Open to relocation and transferring to another university to have less busy schedule - for a relevant opportunity.  
+- **Goals:** Interested in a position as a Computer Vision Engineer or MLOps + Computer Vision Engineer.
