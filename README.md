@@ -46,6 +46,15 @@ PyTorch, Numpy, Pandas, Matplotlib
 
 ---
 
+### [Implementation of Computer Vision techniques](https://github.com/sskyisthelimit/opencv_projects)
+**Technologies and Approaches:**  
+C++, OpenCV
+
+- Implemented camera calibation using chessboard pattern (custom data, camera). 
+- Currently working on image stitching implementation.
+
+---
+
 ### Other Projects
 **Technologies and Approaches:**  
 Bash, Python, Airflow, Docker
@@ -73,6 +82,6 @@ I am focusing on **medium** and **hard-level problems** to improve my algorithmi
 ## Additional Details
 
 - **Mathematics Background:** Thanks to my education at KPI (IASA), I have a strong foundation in mathematics and algorithms.
-- **Experience with C/C++:** Gained through university coursework (I don't consider calling this knowledge fresh and strong).
+- **Experience with C/C++:** Gained through university coursework.
 - **Relocation Readiness:** Open to relocation and transferring to another university to have less busy schedule - for a relevant opportunity.  
 - **Goals:** Interested in a position as a Computer Vision Engineer or MLOps + Computer Vision Engineer.
