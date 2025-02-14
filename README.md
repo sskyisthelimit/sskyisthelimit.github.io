@@ -21,7 +21,7 @@ Python, GIT, GH Actions, Hugging Face, PyTorch, Transformer models, YOLO, REST A
 - Researched existing studies of handwritten text recognition models.
 - Collected and processed data from over 8 different open-source datasets.  
   Processing included:
-  - Annotations for YOLO (line and word detection models).
+  - Annotations for YOLO (separate line and word detection models).
   - Parsing .xml files and optimizing annotations.
 - Utilized transformer-based recognition models: GPT-2 and DTrOCR.
 - Developed and containerized (Docker) an API.  
@@ -35,9 +35,27 @@ Python, GIT, GH Actions, Hugging Face, PyTorch, Transformer models, YOLO, REST A
 
 ---
 
+### [Satellite (Sentinel-2) image matching](https://github.com/sskyisthelimit/DS_Internship/tree/main/CV)
+##### [Demo](https://github.com/sskyisthelimit/DS_Internship/blob/main/CV/notebooks/inference_script_demo.ipynb) 
+
+- While working on this project - gained experience with basic preprocessing of satellite imagery, 
+  experience of working with Sentinel-2 API, used existing models like LightGlue, SuperGlue as matchers,
+  SuperPoint - as extractor of keypoints on image.
+- Also customized founders repositories to obtain full tuning pipeline for extractor, matcher.
+  Created datasets for this purpose.
+---
+
+### [Named Entity Recognition NER](https://github.com/sskyisthelimit/DS_Internship/tree/main/NLP)
+##### [Demo](https://github.com/sskyisthelimit/DS_Internship/blob/main/NLP/notebooks/demo_and_test_reports.ipynb) 
+
+- Gained experience of using Hugging Face, working with NER task, prompt-engineering for LLM.
+- Worked on BERT fine-tuning using custom synthetic generated dataset of mountain names.
+- Using Llama - generated 20 thousand of sentences using more than 2000 different mountain names.
+Used custom algorithm to label this sentences considering that mountain names was wrapped in special symbols.
+- Created test dataset using manual labelling of real-world sentences from Reddit. 
+---
+
 ### [Implementation of Machine Learning Architectures](https://github.com/sskyisthelimit/ml-implementations)
-**Technologies and Approaches:**  
-PyTorch, Numpy, Pandas, Matplotlib
 
 - Implemented architectures for computer vision and deep learning:
   - YOLO, UNET, MobileNet, Inception, ResNet, Vision Transformer.
@@ -84,4 +102,3 @@ I am focusing on **medium** and **hard-level problems** to improve my algorithmi
 - **Mathematics Background:** Thanks to my education at KPI (IASA), I have a strong foundation in mathematics and algorithms.
 - **Experience with C/C++:** Gained through university coursework.
 - **Relocation Readiness:** Open to relocation and transferring to another university to have less busy schedule - for a relevant opportunity.  
-- **Goals:** Interested in a position as a Computer Vision Engineer or MLOps + Computer Vision Engineer.
